@@ -8,3 +8,4 @@
 
 git stash test
 
+merge test
